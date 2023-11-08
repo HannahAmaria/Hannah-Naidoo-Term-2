@@ -4,7 +4,7 @@
 
 <p align="center">
   <h3 align="center">MediCare</h3>
-  <p align="center">An ecommerce website that allows you to view and purchase various Apple Watch Bands.</p>
+  <p align="center">A medical receptionists database to create, read, update and delete patients and doctors.</p>
 </p>
 
 ## Table of Contents
@@ -31,7 +31,7 @@
 
 # About the Project
 ## Project Description
-Welcome to Batch! This is An ecommerce website that allows you to view and purchase various Apple Watch Bands.
+Welcome to MediCare! This is a medical receptionists database to create, read, update and delete patients and doctors.
 ## Built With
 [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) 
 <br />
@@ -108,7 +108,7 @@ The `Development Process` is the technical implementations and functionality don
 ![image3](assets/Mockup 3.jpg)
 
 ## Walkthrough
-<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1pjBiEPVqDRJb6B7GbhKfu-gYVtWHSAKE/view?usp=sharing">here</a></p>
+<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1prNQcLI_oyWlUsUR2wdwY_GvGtyIUsNX/view?usp=sharing">here</a></p>
 
 # Author
 
