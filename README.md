@@ -32,30 +32,22 @@
 # About the Project
 ## Project Description
 Welcome to MediCare! This is a medical receptionists database to create, read, update and delete patients and doctors.
-## Built With
-[<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) 
-<br />
-[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">](https://expressjs.com/) 
-<br />
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="6%" height="6%">](https://reactjs.org/) 
-<br />
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">](https://nodejs.org/en/)
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-For development, the latest version of Node.js is required. The latest version can be downloaded from [Node.js](https://nodejs.org/en/download/)
+For development, the installation of XAMPP is required. 
 
 ## Installation
 Here are a couple of ways to clone this repo:
 1.  GitHub Desktop </br>
-    Enter `https://github.com/HannahAmaria/Hannah-Naidoo-Term-3.git` into the URL field and press the `Clone` button.
+    Enter `https://github.com/HannahAmaria/Hannah-Naidoo-Term-2` into the URL field and press the `Clone` button.
 
 2.  Clone Repository </br>
     Run the following in the command line to clone the project:
     
-        gh repo clone HannahAmaria/Hannah-Naidoo-Term-3
+        gh repo clone HannahAmaria/Hannah-Naidoo-Term-2
  
 4.  Install Dependencies </br>
     Run the following in the command line to install all the required dependencies:
@@ -64,11 +56,10 @@ Here are a couple of ways to clone this repo:
 
 # Concept Process
 
-I went with a simple and minimalistic UI design. Batch is where users can view and purchase various Apple Watch Bands as well as add their own in a quick, concise, and effective way. I used a simple white and black colour palette that will make it easy for users to naviagte through.
-
+I went with a simple and minimalistic UI design.
 ## Ideation
 
-I wanted to create a simple website where users can buy Apple Watch Bands.
+I wanted to create a simple website where receptionists can create, read, update and delete patients and doctors.
 
 # Development Process
 
@@ -89,8 +80,8 @@ The `Development Process` is the technical implementations and functionality don
 
 ### Challenges
 
-- Login authentication took quite a bit of time
-- User permission that allowed admins to dispatch orders
+- XAMPP crashing
+- Receptionist admin rights
 
 ## Future Implementation
 
@@ -122,6 +113,5 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 # Acknowledgements
 
-- [ChatGPT](https://chat.openai.com/)
-- [Takealot](https://takealot.com/)
+- [XAMPP](https://github.com/HannahAmaria/Hannah-Naidoo-Term-3)
 
