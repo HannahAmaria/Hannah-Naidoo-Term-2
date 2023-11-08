@@ -112,7 +112,7 @@ The `Development Process` is the technical implementations and functionality don
 
 # Author
 
-- **Hannah Naidoo** - [Github](https://github.com/HannahAmaria)
+- **Hannah Naidoo** - [Github](https://github.com/HannahAmaria/Hannah-Naidoo-Term-2)
 
 # License
 
